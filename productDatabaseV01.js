@@ -540,6 +540,17 @@ let productCatalog = [
     link:'https://amzn.to/3OClykP',
     iframeSrc: '<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=chattychat-20&language=en_US&marketplace=amazon&region=US&placement=B08QJ6WZ64&asins=B08QJ6WZ64&linkId=95b57644632b1ace0eac3e865430dd41&show_border=true&link_opens_in_new_window=true"></iframe>',  // Add the iframe source link here.
 }, 
+
+{
+    id: 52,
+    name: "Universal Bathroom Sink Stopper",
+    description: "2.0 Upgraded Universal Bathroom Sink Stopper Pop Up, Sink Drain Plug for 1.06-1.80'' Drain Holes, Bathroom Stainless Steel Sink Drain Filter With Basket (Silver 1pc)",
+    category: "Home Decor",
+    keywords: ["Universal", "Bathroom", "Sink", "Stopper", "Drain", "Plug", "Bath", "Replacement", "Basin", "Accessory", "Fixture", "Water"]
+    imgSrc: 'https://m.media-amazon.com/images/I/71V9TEylrKL._AC_SX679_.jpg',
+    link:'https://amzn.to/47iEuNJ',
+    iframeSrc: '<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=chattychat-20&language=en_US&marketplace=amazon&region=US&placement=B09B3T9CQM&asins=B09B3T9CQM&linkId=1a390e6aeb7e8ed0fc69da746ca994b5&show_border=true&link_opens_in_new_window=true"></iframe>',  // Add the iframe source link here.
+}, 
   // Add more products here...
 ];
 // let productCatalog = [
