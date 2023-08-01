@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chattty Chat</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="styleV01.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <meta name="google-signin-client_id" content="YOUR_CLIENT_ID.apps.googleusercontent.com">
+</head>
+<body>
+    <div class="chat">
+        <div class="chat-title">
+            <h1>YOUR PERSONAL SHOPPING ASSISTANT</h1>
+            <h2>Chatty</h2>
+            <figure class="avatar">
+                <img src="avatar.png" />
+            </figure>
+        </div>
+        <div class="messages">
+            <div class="messages-content" id="chatWindow"></div>
+        </div>
+        <div class="message-box">
+            <textarea type="text" class="message-input" id="messageInput" placeholder="Type message..."></textarea>
+            <button type="submit" class="message-submit" id="sendButton">Send</button>
+        </div>
+    </div>
+    <div class="bg"></div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="productDatabaseV01.js"></script>
+    <script src="scriptV01.js"></script>
+    <script src="styleV01.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "name": "Chatty Chat",
+  "short_name": "Chatty",
+  "description": "Our AI Personal Shopper MPV is a revolutionary web application leveraging the power of artificial intelligence to transform your shopping experience. It's designed to understand your style preferences and shopping habits, providing personalized product recommendations and seamless online navigation. Whether you're shopping for fashion, electronics, or home goods, our AI Personal Shopper is your personal guide to efficient and enjoyable online shopping.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3ea4ed",
+  "icons": [
+    {
+      "src": "icon/lowres.webp",
+      "sizes": "48x48",
+      "type": "image/webp"
+    },
+    {
+      "src": "icon/hd_hi.ico",
+      "sizes": "72x72 96x96 128x128 256x256"
+    },
+    {
+      "src": "icon/hd_hi.svg",
+      "sizes": "72x72"
+    }
+  ]
+}
