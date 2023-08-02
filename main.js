@@ -64,7 +64,7 @@ async function chatGptQuery(query) {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': 'Bearer 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'
+            'Authorization': ''
         },
         body: JSON.stringify({
             model: 'gpt-3.5-turbo', // Specify the model
